@@ -1,0 +1,1 @@
+# yad-git-remote
